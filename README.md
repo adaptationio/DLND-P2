@@ -1,1 +1,1 @@
-# DLND-P2
+# DLND-P2 Image-classification
